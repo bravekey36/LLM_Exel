@@ -1,6 +1,0 @@
-POST http://localhost:8080/adopt/AIprocess
-Content-Type: application/json
-
-{
-  "prompt": "중성화된 암컷 중형견 입양하고싶어."
-}
